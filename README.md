@@ -22,8 +22,9 @@ git clone https://github.com/XanderMoroz/HardQode_task.git
 
 1.3 В файлe .env.dist создаете переменную DJANGO_SECRET_KEY и присваиваете ей случайный код. Например:
 
+```sh
 DJANGO_SECRET_KEY=h9wehc98wh393ewcb9h988h2387gf2g8g32fb382gf78027vf38g780237g38738g9f
-
+```
 2 Запуск проекта с Doker
 2.1 Создаете и запускаете контейнер через терминал:
 ```sh
