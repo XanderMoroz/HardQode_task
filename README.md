@@ -26,6 +26,7 @@ git clone https://github.com/XanderMoroz/HardQode_task.git
 DJANGO_SECRET_KEY=h9wehc98wh393ewcb9h988h2387gf2g8g32fb382gf78027vf38g780237g38738g9f
 ```
 2 Запуск проекта с Doker
+
 2.1 Создаете и запускаете контейнер через терминал:
 ```sh
 sudo docker-compose up --build
